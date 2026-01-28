@@ -9,7 +9,7 @@
   --foreground: #fafafa;
   --card: #2a2a2a;
   --card-foreground: #fafafa;
-  --primary: #fafafa;
+  --primary: #e4d852;
   --primary-foreground: #1a1a1a;
   --muted: #3a3a3a;
   --muted-foreground: #a0a0a0;
@@ -122,7 +122,6 @@ body {
   height: 180px;
   object-fit: contain;
   border-radius: var(--radius);
-  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
   transition: transform 0.3s ease;
 }
 
