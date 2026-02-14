@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-  const CORRECT_CODE = '0823';
+  const CORRECT_CODE = '0410';
   
   // DOM Elements
   const openModalBtn = document.getElementById('openModal');
